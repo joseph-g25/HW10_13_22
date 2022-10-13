@@ -38,8 +38,7 @@ string combine(const string& str1, const string& str2)
 
 string combine(const string& str1, int i)
 {
-    string str2 = to_string(i);
-    string str_out = {str1 + str2};
+    string str_out = {str1 + to_string(i)};
 
     return str_out;
 }

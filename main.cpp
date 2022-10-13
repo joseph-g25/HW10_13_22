@@ -28,14 +28,14 @@ int main()
     string ex_str {"01-01-2000:1231:bobsmith:192.168.402.12:1"};
     my_log.from_string(ex_str);
 
-    cout
-    << "\nDate: " << my_log.date
-    << "\nTime: " << my_log.time
-    << "\nUsername: " << my_log.username
-    << "\nIP Address: " << my_log.ip
-    << "\nSuccess: " << my_log.success
-    << "\n\nInput: " << my_log.to_string()
-    << endl;
+//    cout
+//    << "\nDate: " << my_log.date
+//    << "\nTime: " << my_log.time
+//    << "\nUsername: " << my_log.username
+//    << "\nIP Address: " << my_log.ip
+//    << "\nSuccess: " << my_log.success
+//    << "\n\nInput: " << my_log.to_string()
+//    << endl;
 
     return 0;
 }

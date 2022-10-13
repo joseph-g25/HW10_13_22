@@ -6,16 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.cpp
-iostream
--
-string
--
-vector
--
-combo.h
-/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.h
-
 /home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.h
 iostream
 -
