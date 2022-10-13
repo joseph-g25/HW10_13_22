@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.cpp
+iostream
+-
+string
+-
+vector
+-
+combo.h
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.h
+
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.h
+iostream
+-
+string
+-
+vector
+-
+
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/log_class.h
+string
+-
+vector
+-
+
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/main.cpp
+iostream
+-
+string
+-
+vector
+-
+combo.h
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/combo.h
+log_class.h
+/home/joseph/Documents/CDS_241/HW2/HW10_13_22/log_class.h
+

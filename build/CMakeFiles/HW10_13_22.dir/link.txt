@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/HW10_13_22.dir/main.cpp.o CMakeFiles/HW10_13_22.dir/combo.cpp.o  -o HW10_13_22 
